@@ -1,0 +1,29 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_12"/>
+  </g>
+ </g>
+ <g>
+  <title>bag</title>
+  <g id="svg_11">
+   <ellipse stroke="#000" ry="73.77391" rx="71.58265" id="svg_9" cy="281.77391" cx="456.41745" stroke-opacity="null" stroke-width="1.5" fill="#444444"/>
+   <ellipse stroke="#000" ry="73.77391" rx="71.58265" id="svg_10" cy="285.80746" cx="445.58265" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+  </g>
+  <g stroke="null" id="svg_15">
+   <ellipse stroke="#000" ry="73.77391" rx="72.04736" id="svg_13" cy="282.77391" cx="342.0475" stroke-opacity="null" stroke-width="1.5" fill="#444444"/>
+   <ellipse stroke="#000" ry="73.77391" rx="72.04736" id="svg_14" cy="286.80746" cx="352.95264" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+  </g>
+  <rect stroke="#000" rx="25" id="svg_5" height="62.97903" width="68" y="237" x="418.5" stroke-width="1.5" fill="#666666"/>
+  <rect stroke="#000" rx="25" id="svg_4" height="62.97903" width="68" y="238" x="313.5" stroke-width="1.5" fill="#666666"/>
+  <rect stroke="#000" rx="30" id="svg_3" height="151" width="143" y="243" x="328.49999" stroke-width="1.5" fill="#666666"/>
+  <rect rx="30" id="svg_1" height="95" width="152" y="229" x="324.00001" stroke-width="1.5" fill="#BBBBBB" stroke="#000"/>
+  <rect rx="30" id="svg_2" height="118.00001" width="118" y="215" x="341.00001" stroke-width="1.5" fill="#999999" stroke="#000"/>
+  <rect rx="10" id="svg_6" height="24" width="34" y="322" x="383" stroke-width="1.5" fill="#DDDDDD" stroke="#000"/>
+  <rect rx="10" id="svg_7" height="31.97903" width="68" y="353" x="366" stroke-width="1.5" fill="#999999" stroke="#000"/>
+ </g>
+</svg>

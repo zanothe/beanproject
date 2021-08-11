@@ -1,0 +1,11 @@
+<svg id="dir" onmouseover="invtransition('dir')" onclick="invtransition('dir')" width="130" height="30" xmlns="http://www.w3.org/2000/svg">
+   <g>
+  <title>DirIco</title>
+  <text fill="#666666" stroke="#BBBBBB" stroke-width="0" fill-opacity="null" x="45.90634" y="10.98461" id="svg_14" font-size="12" font-family="monospace" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal">Directories</text>
+  <text fill="#666666" stroke="#BBBBBB" stroke-width="0" x="45.35764" y="27.001" id="svg_15" font-size="12" font-family="monospace" text-anchor="start" xml:space="preserve">Access</text>
+  <g id="svg_16">
+   <rect fill="#fff" stroke-opacity="null" x="0.63332" y="4.23514" width="32.88478" height="22.19078" id="svg_9" stroke="#000"/>
+   <path id="svg_13" d="m5.88163,27.3655l34.57827,-0.13036l0,-18.8551l-6.02316,-5.89222l-9.82036,0l-4.19002,6.02316c0.12034,0.13036 -14.54473,0.26129 -14.54473,0.26129c0,0 -0.13602,0 0,18.59323z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#444444"/>
+  </g>
+ </g>
+</svg>

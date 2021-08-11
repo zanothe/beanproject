@@ -1,0 +1,27 @@
+<svg width="80" height="60" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="5.67023" width="6.89364" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_10">
+   <rect stroke="#000" rx="2" id="svg_3" height="11.38314" width="9.68961" y="8.16946" x="41.45546" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+   <rect stroke="#000" rx="2" id="svg_2" height="4.57673" width="34.43103" y="7.82474" x="38.40188" stroke-width="1.5" fill="#ffffff"/>
+   <rect stroke="#000" rx="5" id="svg_1" height="17.72015" width="14.01701" y="1.66376" x="64.31924" stroke-width="2" fill="#ffffff"/>
+   <rect stroke="#000" id="svg_5" height="0.81466" width="8.22849" y="15.54469" x="42.68224" stroke-opacity="null" stroke-width="1.5" fill="#000000"/>
+  </g>
+  <g stroke="null" id="svg_12">
+   <rect stroke="#000" id="svg_9" height="18.26396" width="28.84975" y="4.65821" x="0" stroke-opacity="null" stroke-width="0" fill="#fff"/>
+   <path stroke="#000000" id="svg_4" d="m1.43352,23.21126l31.02004,-0.02394l0,-16.73536l-5.62008,-5.62008l-8.36768,0" stroke-width="1.5" fill="#444444"/>
+   <path stroke="#000" id="svg_5" d="m14.34441,6.45196l3.54392,-5.62008l5.27651,0" stroke-opacity="null" stroke-width="1.5" fill="#444444"/>
+   <path stroke="#000" id="svg_6" d="m25.91412,23.2087l-24.55633,-0.0241l0,-16.85753" stroke-opacity="null" stroke-width="1.5" fill="#444444"/>
+   <rect stroke="#000" id="svg_8" height="7.74322" width="15.48645" y="6.14286" x="1.30852" stroke-opacity="null" stroke-width="1.5" fill="#444444"/>
+   <rect stroke="#000" id="svg_7" height="9.84231" width="15.82244" y="6.96158" x="2.04245" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#444444"/>
+   <path stroke="#000" id="svg_11" d="m12.22645,11.07597l5.04563,-8.00154l7.51239,0" stroke-opacity="null" stroke-width="0" fill="#444444"/>
+  </g>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="10" id="svg_14" y="39.38984" x="7.80626" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Access</text>
+ </g>
+</svg>
